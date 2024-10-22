@@ -1,5 +1,9 @@
 IMPORTANTE: copiare il percorso del file tombolaTesto.txt, servirà per l'esecuzione del programma.
 
+Per scrivere le cartelle, è possibile utilizzare il file tombolaCreaCartelle.py oppure modificare direttamente il file tombolaCartelle.txt secondo le seguenti indicazioni.
+
+
+
 INDICAZIONI PER SCRIVERE LE CARTELLE
 
 All'interno del file tombolaTesto.txt vanno scritte le cartelle che dovranno essere utilizzate durante la tombola.
